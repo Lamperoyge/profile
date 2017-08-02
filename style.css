@@ -1,0 +1,116 @@
+body {
+  background-image: url("images/backgroundimg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: rgb(20,20,20);
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cuprum', sans-serif;
+  text-shadow: 1px 1px 1px black;
+  color: #ECEFF4;
+  position: relative;
+}
+
+#lewagon-color {
+  color:#ECF0F1;
+
+}
+
+.fa-2x {
+  color: #DC3737;
+}
+
+
+
+#lewagon-color:hover {
+  color: #FFFCEA;
+}
+.social-link {
+  text-align: center;
+  font-size: 10px;
+ }
+
+.icon-link {
+  margin: 10px 30px
+}
+
+.top {
+  padding: 30px;
+  border-radius: 3px;
+  box-shadow: 1px,1px,3px,rgba(0,0,0,0.1)
+  margin: 0 auto;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color:#BE3144;
+}
+#gnrsign-right {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+
+}
+#profilepic {
+  border-radius: 190px;
+  box-shadow: 1px 1px 2px black;
+  height: 100px;
+  width: auto;
+
+}
+
+  .container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  }
+
+
+.btn-group {
+  background-color: #D23333 ;
+  color: white;
+  font-weight: 100;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-group:hover {
+  background-color:#DC3737 ;
+  color: white;
+  font-weight: 100;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.social-link {
+  position: relative;
+}
+
+#link-left {
+  position: absolute;
+  left: 0;
+  font-size: 20px;
+  margin: 0;
+}
+
+.list_inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list_inline {
+  padding-left: 0;
+}
+
